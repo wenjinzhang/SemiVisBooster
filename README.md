@@ -3,8 +3,8 @@
 Our algorithm implementation is at ```semilearn/algorithms/freematch/text_match.py```
 
 ## TODO
-clean the code
-Update the training
+- Clean the code
+- Update the training
 
 ### Prerequisites
 Our Method is based on USB. USB is built on pytorch, with torchvision, torchaudio, and transformers.
